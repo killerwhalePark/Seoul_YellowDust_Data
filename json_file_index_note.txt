@@ -1,0 +1,66 @@
+도봉구 - 15
+동대문구 - 17
+동작구 - 18
+은평구 - 37
+강북구 - 4
+강동구 - 2
+강서구 - 5
+금천구 - 12
+구로구 - 10
+관악구 - 7
+광진구 - 9
+강남구 - 0
+종로구 - 41
+중구 - 42
+중랑구 - 43
+마포구 - 20
+노원구 - 14
+서초구 - 25
+서대문구 - 23
+성북구 - 27
+성동구 - 26
+송파구 - 29
+양천구 - 32
+영등포구 - 33
+용산구 - 36
+
+<!-- <ul class="list-of-states">
+  <li data-state="Dobong-gu">도봉구</li>
+  <li data-state="Dongdaemun-gu">동대문구</li>
+  <li data-state="Dongjak-gu">동작구</li>
+  <li data-state="Eunpyeong-gu">은평구</li>
+  <li data-state="Gangbuk-gu">강북구</li>
+  <li data-state="Gangdong-gu">강동구</li>
+  <li data-state="Gangseo-gu">강서구</li>
+  <li data-state="Geumcheon-gu">금천구</li>
+  <li data-state="Guro-gu">구로구</li>
+  <li data-state="Gwanak-gu">관악구</li>
+  <li data-state="Gwangjin-gu">광진구</li>
+  <li data-state="Gangnam-gu">강남구</li>
+  <li data-state="Jongno-gu">종로구</li>
+  <li data-state="Jung-gu">중구</li>
+  <li data-state="Jungnang-gu">중랑구</li>
+  <li data-state="Mapo-gu">마포구</li>
+  <li data-state="Nowon-gu">노원구</li>
+  <li data-state="Seocho-gu">서초구</li>
+  <li data-state="Seodaemun-gu">서대문구</li>
+  <li data-state="Seongbuk-gu">성북구</li>
+  <li data-state="Seongdong-gu">성동구</li>
+  <li data-state="Songpa-gu">송파구</li>
+  <li data-state="Yangcheon-gu">양천구</li>
+  <li data-state="Yeongdeungpo-gu_1_">영등포구</li>
+  <li data-state="Yongsan-gu">용산구</li>
+</ul> -->
+
+
+--- 미세먼지 기준 ----
+좋음 1단계 - 0 ~ 15 - #BBD5FF
+좋음 2단계 - 16 ~30 -   #BBF3FF
+보통 1단계 - 31 ~ 50 - #BBFFCF
+보통 2단계 - 51 ~ 80 - #C9FFBB
+나쁨 1단계 - 81 ~ 100 - #EBFFBB
+나쁨 2단계 - 101 ~ 150 -#FFF1BB
+매우나쁨 - 151 ~ - #FFCFBB
+
+
+https://codepen.io/code-machina/pen/jJNrXX
