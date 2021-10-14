@@ -1,0 +1,255 @@
+svg {
+  display: block;
+  width: 100%;
+  height: 500px;
+  margin-bottom: 15px;
+}
+
+#states *.on {
+  fill: red;
+}
+
+
+body{
+  color: #2b2b2b;
+  background-color:#2b2b2b;
+}
+
+
+.title{
+  display: block;
+  color: #ffffff;
+  margin-top : 50px;
+  width: 100%;
+  text-align: center;
+}
+
+
+
+svg path:hover{
+  opacity: 80%;
+  transition: 0.3s;
+}
+
+input[type="range"] {
+  width: 50%;
+  -webkit-appearance: none;
+  height: 7px;
+  border-radius: 3px;
+}
+
+
+input[type="range"]:focus {
+  outline: none;
+}
+
+.date-label{
+  color: #ffffff;
+}
+
+.DateText{
+  display: block;
+  color: #ffffff;
+  margin-top: 30px;
+  width: 100%;
+  text-align: center;
+  font-size: 22px;
+}
+
+.GraphTitle{
+  color: #ffffff;
+  margin-top: 120px;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 100px;
+
+}
+
+.yellowdustInfo{
+  position: absolute;
+  top: 250px;
+  left : 75%;
+
+}
+
+.graph{
+  color: #ffffff;
+}
+
+.graph span{
+  position: absolute;
+}
+
+.yellowdustData1{
+  font-size: 48px;
+  font-weight: bold;
+  top: 1200px;
+  left: 40%;
+
+}
+
+.yellowdustData2{
+  font-size: 44px;
+  font-weight: bold;
+  top: 1100px;
+  left: 65%;
+
+}
+
+.yellowdustData3{
+  font-size: 40px;
+  font-weight: bold;
+  top: 1000px;
+  left: 20%;
+
+}
+
+.yellowdustData4{
+  font-size: 36px;
+  font-weight: bold;
+  top: 1350px;
+  left: 30%;
+
+
+}
+
+.yellowdustData5{
+  font-size: 32px;
+  font-weight: bold;
+  top: 1350px;
+  left: 55%;
+
+}
+
+.yellowdustData6{
+  font-size: 30px;
+  font-weight: bold;
+  top: 1100px;
+  left: 10%;
+
+}
+
+.yellowdustData7{
+  font-size: 28px;
+  font-weight: bold;
+  top: 1100px;
+  left: 40%;
+
+}
+
+.yellowdustData8{
+  font-size: 28px;
+  font-weight: bold;
+  top: 1300px;
+  left: 70%;
+
+}
+
+.yellowdustData9{
+  font-size: 26px;
+  font-weight: bold;
+  top: 1300px;
+  left: 20%;
+
+}
+
+.yellowdustData10{
+  font-size: 24px;
+  font-weight: bold;
+  top: 1300px;
+  left: 50%;
+
+}
+
+.yellowdustData11{
+  font-size: 24px;
+  font-weight: bold;
+  top: 1200px;
+  left: 25%;
+
+}
+
+.yellowdustData12{
+  font-size: 22px;
+  top: 1150px;
+  left: 25%;
+
+}
+
+.yellowdustData13{
+  font-size: 20px;
+  top: 1220px;
+  left: 67%;
+}
+
+.yellowdustData14{
+  font-size: 18px;
+  top: 1070px;
+  left: 20%;
+}
+
+.yellowdustData15{
+  font-size: 18px;
+  top: 1170px;
+  left: 50%;
+}
+
+.yellowdustData16{
+  font-size: 18px;
+  top: 1270px;
+  left: 50%;
+}
+.yellowdustData17{
+  font-size: 18px;
+  top: 1320px;
+  left: 37%;
+}
+.yellowdustData18{
+  font-size: 18px;
+  top: 1270px;
+  left: 65%;
+}
+.yellowdustData19{
+  font-size: 18px;
+  top: 1170px;
+  left: 65%;
+}
+.yellowdustData20{
+  font-size: 18px;
+  top: 1170px;
+  left: 38%;
+}
+.yellowdustData21{
+  font-size: 18px;
+  top: 1110px;
+  left: 28%;
+}
+.yellowdustData22{
+  font-size: 18px;
+  top: 1270px;
+  left: 35%;
+}
+.yellowdustData23{
+  font-size: 18px;
+  top: 1250px;
+  left: 20%;
+}
+.yellowdustData24{
+  font-size: 18px;
+  top: 1070px;
+  left: 35%;
+}
+.yellowdustData25{
+  font-size: 18px;
+  top: 1070px;
+  left: 50%;
+}
+
+.copyright{
+  display: block;
+  font-size: 12px;
+  color: #ffffff;
+  width: 100%;
+  text-align: center;
+
+}
